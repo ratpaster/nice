@@ -2,17 +2,17 @@
     "token": "",
     "language": "en",
     "prefix": "-",
-    "mongodbUri": "",
+    "mongodbUri": "YuIeuSMgapK1qCFc8YpPSokkCsQTJ84GBCRr2KXIRCFR8ElMRGcNbZKIwMcXZyLu",
     "geniusToken": "RUwJeGOItN1jcJodcVqKPlqzs8eObcSCc1cfjz8sWu6RXTGOElk96tuU6oOXsWKF",
     "excessCommands": {
         "utility": true,
         "other": true,
-        "hentai": false,
+        "hentai": true,
         "lavalink": true,
         "troll": true
     },
     "categories": {
-        "anime": false,
+        "anime": true,
         "basic": true,
         "utility": true,
         "moderation": true,
